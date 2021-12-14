@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aripovjr
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, C++
+- 🌱 I’m currently learning Javascript, React
 - 💞️ I’m looking for Internship for Front-end Developers
 - 📫 Contact me vie email: jasurbek_aripov@mail.ru
 
