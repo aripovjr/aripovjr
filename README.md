@@ -6,7 +6,7 @@
 - Contact me vie email: jasurbek_aripov@mail.ru
 - About future plans, I wish I would improve my C++ and Python after getting hired 
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=aripovjr" alt="aripov"/></p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aripovjr&theme=flat&row=1" alt="aripov"/></p>
 
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
