@@ -3,7 +3,7 @@
 - We had studied: Algorithms and Complexity, OOP, Programming and Data Structures 
 - These days, I am interested in Web Development
 - I’m looking for Internship for Front-end Developers
-- Contact me vie email: jasurbek_aripov@mail.ru
+- Contact me vie email: aripovjasurbe@gmail.com
 - About future plans, I wish I would improve my C++ and Python after getting hired 
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aripovjr&theme=flat&row=1" alt="aripov"/></p>
